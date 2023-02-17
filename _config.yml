@@ -1,0 +1,7 @@
+title: 'Artículos'
+description:
+logo: logo/Vaquita.jpg
+show_downloads: true
+theme: jekyll-theme-minimal
+plugins:
+  - jemoji
