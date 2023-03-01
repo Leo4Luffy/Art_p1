@@ -7,6 +7,23 @@ layout: default
 
 ---
 
+### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/3.pdf">Omics applied to livestock genetics</a>
+
+<BR>
+
+## ¿De qué trata?
+
+---
+
+### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/3.pdf">Deep learning meets metabolomics: a methodological perspective</a>
+
+<BR>
+
+## ¿De qué trata?
+
+---
+
+<!--
 ### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/2.pdf">Do molecular markers inform about pleiotropy?</a>
 
 <BR>
@@ -20,4 +37,4 @@ layout: default
 <BR>
 
 ## ¿De qué trata?
-
+-->
