@@ -9,9 +9,7 @@ layout: default
 
 ### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/3.pdf">Omics applied to livestock genetics</a>
 
-<BR>
-
-<p style="background-color: purple; color: #ffffff; border-radius: 4px; font-size: 16px; padding: 20px; margin: 5px;" align="justify"><b>This is a Sample Text box with background color purple and white text.</b></p>
+<p style="background-color: white; color: yellow; border-radius: 4px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>This is a Sample Text box with background color purple and white text.</b></p>
 
 ---
 
