@@ -11,11 +11,11 @@ layout: default
 
 <BR>
 
-## ¿De qué trata?
+<p style="background-color: purple; color: #ffffff; border-radius: 4px; font-size: 16px; padding: 20px; margin: 5px;" align="justify"><b>This is a Sample Text box with background color purple and white text.</b></p>
 
 ---
 
-### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/3.pdf">Deep learning meets metabolomics: a methodological perspective</a>
+### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/4.pdf">Deep learning meets metabolomics: a methodological perspective</a>
 
 <BR>
 
