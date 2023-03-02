@@ -9,7 +9,9 @@ layout: default
 
 ### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/3.pdf">Omics applied to livestock genetics</a>
 
-<p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 50px 30px 60px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>Los estudios ómicos han permitido el desarollo de importantes herramientas en el sector ganadero al revolucionar la traducción del genoma a la investigación fenómica.</b></p>
+<p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>Los estudios ómicos han permitido el desarollo de importantes herramientas en el sector ganadero al revolucionar la traducción del genoma a la investigación fenómica.
+
+A partir de los conjuntos de datos ómicos se han desarrollado herramientas para la producción animal y la sostenibilidad. Así mismo, los enfoques ómicos pueden aplicarse de forma integral (u holistica) a la mejora de la cría animal, permitiendo también una mejor comprensión del trasfondo genético de la variabilidad fenotípica.</b></p>
 
 ---
 
