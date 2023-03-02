@@ -29,7 +29,7 @@ La generación y el intercambio de conjuntos de datos multi-ómicos será fundam
 <br>
 <br>
 
-<p style="font-size: 8px; color: black; gray">NOTA: En este articulo citan algunos estudios donde se intengran distintos enfoques ómicos. Por ejemplo, un estudio donde se integro datos proteómicos y transcriptómicos a partir de un análisis factorial red Bayesiana.</b></p></p>
+<font color="gray" face="courier" size="8">NOTA: En este articulo citan algunos estudios donde se intengran distintos enfoques ómicos. Por ejemplo, un estudio donde se integro datos proteómicos y transcriptómicos a partir de un análisis factorial red Bayesiana.</b></p>
 
 ---
 
