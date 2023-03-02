@@ -24,7 +24,12 @@ La transcriptómica y la genómica en bovinos y cerdos son los enfoques más uti
 <br>
 <br>
 
-La generación y el intercambio de conjuntos de datos multi-ómicos será fundamental para continuar avanzando en investigaciones en este campo. En este sentido, la integración de la fenómica con otras tecnologías ómicas ayudarán a aumentar las tasas de progresos genéticos en los programas de mejoramiento sostenibles.</b></p>
+La generación y el intercambio de conjuntos de datos multi-ómicos será fundamental para continuar avanzando en investigaciones en este campo. En este sentido, la integración de la fenómica con otras tecnologías ómicas ayudarán a aumentar las tasas de progresos genéticos en los programas de mejoramiento sostenibles.
+
+<br>
+<br>
+
+<p style="font-size: 8px; color: black; gray">NOTA: En este articulo citan algunos estudios donde se intengran distintos enfoques ómicos. Por ejemplo, un estudio donde se integro datos proteómicos y transcriptómicos a partir de un análisis factorial red Bayesiana.</b></p></p>
 
 ---
 
