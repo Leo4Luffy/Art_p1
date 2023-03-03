@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Titulo del artículo
-> Trabajos revisados para desarrollar el primer artículo escrito durante mis estudios de doctorado.
+> Trabajos revisados<!-- para desarrollar el primer artículo escrito durante mis estudios de doctorado-->.
 
 ---
 
@@ -19,7 +19,7 @@ A partir de los conjuntos de datos ómicos se han desarrollado herramientas para
 <br>
 <br>
 
-La transcriptómica y la genómica en bovinos y cerdos son los enfoques más utilizados (Figura a continuación).
+La transcriptómica y la genómica en bovinos y cerdos son los enfoques más utilizados (Figura <i class="far fa-copy"></i><a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig1_Art3.png" class="download" title="aquí" target="_blank"></a>).
 
 <br>
 <br>
@@ -29,7 +29,7 @@ La generación y el intercambio de conjuntos de datos multi-ómicos será fundam
 <br>
 <br>
 
-<font color="gray" size="0.4">NOTA: En este artículo citan algunos estudios donde se integran distintos enfoques ómicos. Por ejemplo, un estudio donde se integró datos proteómicos y transcriptómicos a partir de un análisis factorial y red Bayesiana.</font></b></p>
+<font color="gray" size="0.4"><sup>NOTA</sup>: En este artículo citan algunos estudios donde se integran distintos enfoques ómicos. Por ejemplo, un estudio donde se integró datos proteómicos y transcriptómicos a partir de un análisis factorial y red Bayesiana.</font></b></p>
 
 ---
 
