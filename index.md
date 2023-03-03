@@ -19,7 +19,7 @@ A partir de los conjuntos de datos ómicos se han desarrollado herramientas para
 <br>
 <br>
 
-La transcriptómica y la genómica en bovinos y cerdos son los enfoques más utilizados (Figura <i class="far fa-copy"></i><a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig1_Art3.png" class="download" title="aquí" target="_blank"></a>).
+La transcriptómica y la genómica en bovinos y cerdos son los enfoques más utilizados (Figura <i class="far fa-copy"></i><a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig1_Art3.png">aquí</a>).
 
 <br>
 <br>
