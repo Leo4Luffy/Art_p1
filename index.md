@@ -37,6 +37,10 @@ La generación y el intercambio de conjuntos de datos multi-ómicos será fundam
 
 ---
 
+### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/6.pdf">Genomic evaluation methods to include intermediate correlated features such as high-throughput or omics phenotypes</a>
+
+---
+
 ### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/4.pdf">Deep learning meets metabolomics: a methodological perspective</a>
 
 ---
