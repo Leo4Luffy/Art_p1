@@ -40,7 +40,12 @@ La generación y el intercambio de conjuntos de datos multi-ómicos será fundam
 <br>
 <br>
 
-Los datos ómicos seran utiles si se procesan y descifran a través de herramientas analiticas apropiadas. En este sentido, el machine (deep) learning son una herramienta fundamental para inspección, interpretación y exploración de datos ómicos, y han permitido grandes avances en investigaciones recientes.</b></p>
+Un problema fundamental en una biología basada en ómica es la dificultad en extraer conocimientos de conjuntos de datos grandes y complejos. Esta tarea se puede obordar a través de algoritmos de machine (deep) learning, muchos de los cuales pueden ser adaptados a distintas ómicas.
+
+<br>
+<br>
+
+</b></p>
 
 ---
 
