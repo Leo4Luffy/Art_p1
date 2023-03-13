@@ -9,7 +9,9 @@ layout: default
 
 ### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/3.pdf">Omics applied to livestock genetics</a>
 
-<p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>Los estudios ómicos han permitido el desarrollo de importantes herramientas en el sector ganadero al revolucionar la traducción del genoma a la investigación fenómica.
+<p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>
+
+Los estudios ómicos han permitido el desarrollo de importantes herramientas en el sector ganadero al revolucionar la traducción del genoma a la investigación fenómica.
 
 <br>
 <br>
@@ -29,15 +31,28 @@ La generación y el intercambio de conjuntos de datos multi-ómicos será fundam
 <br>
 <br>
 
-<font color="gray" size="0.4"><u>NOTA</u>: En este artículo citan algunos estudios donde se integran distintos enfoques ómicos. Por ejemplo, un estudio donde se integró datos proteómicos y transcriptómicos a partir de un análisis factorial y red Bayesiana.</font></b></p>
+<font color="gray" size="0.4"><u>NOTA</u>: En este artículo citan algunos estudios donde se integran distintos enfoques ómicos. Por ejemplo, un estudio donde se integró datos proteómicos y transcriptómicos a partir de un análisis factorial y red Bayesiana.</font>
 
----
-
-### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/5.pdf">Genomic evaluation methods to include intermediate correlated features such as high-throughput or omics phenotypes</a>
+</b></p>
 
 ---
 
 ### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/6.pdf">Machine and deep learning meet genome-scale metabolic modeling</a>
+
+<p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>
+
+Varios niveles del conocimiento han sido asociados con tecnologías ómicas emergentes. En años recientes, los más extendidos incluyen secuencias de ADN (<u>genómica</u>), secuencias de ARN (<u>transcriptómica</u>), metilación del ADN y modificaciones de histonas (<u>epigenómica</u>) y espectometría de masas de proteínas o metabolitos (<u>proteómica</u> y <u>metabolómica</u>). Los datos ómicos brindan acceso diecto y conveniente a la variabilidad genética y actividad celular.
+
+<br>
+<br>
+
+Los datos ómicos seran utiles si se procesan y descifran a través de herramientas analiticas apropiadas. En este sentido, el machine (deep) learning son una herramienta fundamental para inspección, interpretación y exploración de datos ómicos, y han permitido grandes avances en investigaciones recientes.
+
+</b></p>
+
+---
+
+### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/5.pdf">Genomic evaluation methods to include intermediate correlated features such as high-throughput or omics phenotypes</a>
 
 ---
 
