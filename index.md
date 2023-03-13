@@ -41,21 +41,23 @@ La generación y el intercambio de conjuntos de datos multi-ómicos será fundam
 
 <p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>
 
-Varios niveles del conocimiento han sido asociados con tecnologías ómicas emergentes. En años recientes, los más extendidos incluyen secuencias de ADN (<u>genómica</u>), secuencias de ARN (<u>transcriptómica</u>), metilación del ADN y modificaciones de histonas (<u>epigenómica</u>) y espectometría de masas de proteínas o metabolitos (<u>proteómica</u> y <u>metabolómica</u>). Los datos ómicos brindan acceso diecto y conveniente a la variabilidad genética y actividad celular.
+Varios niveles del conocimiento han sido asociados con tecnologías ómicas emergentes. En años recientes, los más extendidos incluyen secuencias de ADN (<u>genómica</u>), secuencias de ARN (<u>transcriptómica</u>), metilación del ADN y modificaciones de histonas (<u>epigenómica</u>) y espectrometría de masas de proteínas o metabolitos (<u>proteómica</u> y <u>metabolómica</u>). Los datos ómicos brindan acceso diecto y conveniente a la variabilidad genética y actividad celular.
 
 <br>
 <br>
 
-Un problema fundamental en una biología basada en ómicas es la dificultad en extraer conocimientos de conjuntos de datos grandes y complejos. Esta tarea se puede obordar a través de algoritmos de machine (deep) learning, muchos de los cuales pueden ser adaptados a configuraciones especifícas y tipos ómicos.
+Un problema fundamental en una biología basada en ómicas es la dificultad en extraer conocimientos de conjuntos de datos grandes y complejos. Esta tarea se puede abordar a través de algoritmos de machine (deep) learning, muchos de los cuales pueden ser adaptados a configuraciones específicas y tipos ómicos.
 
 <br>
 <br>
 
-Un solo tipo de datos suele ofrecer una visión parcial de la complejidad biologica y puede limitar nuestra compresión de la misma, mientras que los <u>metodos de integración de datos</u> pueden facilitar el análisis combinado de múltiples conjuntos de datos ómicos (que pueden ser heterogéneos), y así representar más de cerca las relaciones genotipo-fenotipo.
+Un solo tipo de datos suele ofrecer una visión parcial de la complejidad biológica y puede limitar nuestra compresión de la misma, mientras que los <u>métodos de integración de datos</u> pueden facilitar el análisis combinado de múltiples conjuntos de datos ómicos (que pueden ser heterogéneos), y así representar más de cerca las relaciones genotipo-fenotipo.
 
-Los métodos metadimensionales son los enfoques de integración de datos a gran escala ma éxitosos. Estos son:
+Los métodos metadimensionales son los enfoques de integración de datos a gran escala más exitosos. Estos son:
 
-1. <u>Integración basada en concatenación</u>.
+<br>
+
+1. <u>Integración basada en concatenación</u>. Varios tipos de datos se fusionan mediante la concatenación de matrices de datos. Luego, un algoritmo de aprendizaje puede aplicarse a esta matriz combinada. Este enfoque tiene como ventaja que facilita que a cualquier matriz combinada se le pueda aplicar métodos estadísticos con relativa facilidad. No obstante, combinar múltiples matrices puede ser desafiante debido a las diferencias de escala (que puede solucionarse a partir de la normalización) o el sesgo y la varianza inherente de cada tipo de dato (que aún con normalización puede afectar el análisis) (Figura <a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig1_Art6.png">aquí</a>).
 
 </b></p>
 
