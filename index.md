@@ -82,7 +82,7 @@ Los métodos metadimensionales son los enfoques de integración de datos a gran 
 
 ---
 
-### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/7.pdf">Rise of Deep Learning for Genomic, Proteomic, and Metabolomic Data Integration in Precision Medicine</a>
+### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/7.pdf">Rise of deep learning for genomic, proteomic, and metabolomic data integration in precision medicine</a>
 
 <p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>
 
@@ -102,6 +102,16 @@ La flexibilidad de las arquitecturas del deep learning permite la capacidad de g
 <br>
 
 La integración de datos multiómicos se requiere para modelar de forma robusta sistemas biológicos complejos. Además, una sola medida ómica podría no revelar mecanismos dinámicos o dependientes del tiempo. Este tipo de desafíos requiere de combinaciones bien pensadas de medidas ómicas para caracterizar lo suficiente las firmas bioquímicas que reflejan el fenotipo en el momento mismo en que la muestra es tomada.
+
+<br>
+<br>
+
+La integración ómica es un enfoque que vincula conjuntos de datos a través de dominios bioquímicos ortogonales, magnificando con esto señales biologicamente relevantes (Figura <a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig1_Art7.png">aquí</a>).
+
+<br>
+<br>
+
+Los modelos deep learning pasan la señal de entrada a través de una serie de capas computacionales, lo que crea una dependencia direccional de la codificación de la señal entre las capas anteriores y posteriores, lo que refleja el acto de identificar biomarcadores dentro una red de interacción de gen, proteína y metabolito enlazada. Estos modelos contienen un mínimo de tres capas: entrada, oculta y salida. Esto podría imitar la representación de las relaciones entre la transcripción de genes, la expresión de proteínas y las concentraciones de metabolitos, pero también puede extenderse a otras capas ómicas (Figura <a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig2_Art7.png">aquí</a>).
 
 </b></p>
 
