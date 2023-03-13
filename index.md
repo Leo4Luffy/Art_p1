@@ -86,14 +86,22 @@ Los métodos metadimensionales son los enfoques de integración de datos a gran 
 
 <p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>
 
-El crecimiento continuo de las investigaciones ómicas ha requerido mejoras en instrumentación, algoritmos bioinformaticos, métodos de ciencia de datos y acceso a recursos computacionales. El deep learning es un subdominio del machine learning que ha emergido como un enfoque poderoso, y que puede codificar y modelar muchas formas de datos complejos, tanto en entornos supervisados como no supervisados.
-
-En particular, la medicina de precisión (<font color="gray" size="0.4">que podria ser el caso también de la ganaderia de precisión</font>) presenta una oportunidad única para que los datos ómicos se integren con muchos otros tipos, incluidos los sensores de Internet de las cosas, que si se realizan, para mejorar en gran medida la calidad de la atención médica.
+El crecimiento continuo de las investigaciones ómicas ha requerido mejoras en instrumentación, algoritmos bioinformáticos, métodos de ciencia de datos y acceso a recursos computacionales. El deep learning es un subdominio del machine learning que ha emergido como un enfoque poderoso, y que puede codificar y modelar muchas formas de datos complejos, tanto en entornos supervisados como no supervisados.
 
 <br>
 <br>
 
+En particular, la medicina de precisión (<font color="gray" size="0.4">que podría ser el caso también de la ganadería de precisión</font>) presenta una oportunidad única para que los datos ómicos se integren con muchos otros tipos, incluidos los sensores de internet de las cosas, que si se realizan, podrían mejorar en gran medida la calidad de la atención médica.
 
+<br>
+<br>
+
+La flexibilidad de las arquitecturas del deep learning permite la capacidad de generar inferencias significativas, en caso de que se tengan suficientes datos de entrenamiento. <u>Esta flexibilidad podría ser aplicado al análisis ómico y a su integración</u>.
+
+<br>
+<br>
+
+La integración de datos multiómicos se requiere para modelar de forma robusta sistemas biológicos complejos. Además, una sola medida ómica podría no revelar mecanismos dinámicos o dependientes del tiempo. Este tipo de desafíos requiere de combinaciones bien pensadas de medidas ómicas para caracterizar lo suficiente las firmas bioquímicas que reflejan el fenotipo en el momento mismo en que la muestra es tomada.
 
 </b></p>
 
