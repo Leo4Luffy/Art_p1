@@ -119,12 +119,16 @@ Los modelos deep learning pasan la señal de entrada a través de una serie de c
 
 ### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/5.pdf">Genomic evaluation methods to include intermediate correlated features such as high-throughput or omics phenotypes</a>
 
+<p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>
+
 Hoy en día existe una plétora de nuevas mediciones, parte de ellas cercanas a la biología animal (por ejemplo la transcripción de genes, el metagenoma, las imágenes, entre otros), hecho que a favorecido el desarrollo de nuevos enfoques para su análisis (machine learning en particular) y con ello, la posibilidad de predecir, en principio, casi cualquier cosa.
 
 <br>
 <br>
 
-Si bien, a partir de estos nuevos enfoques es posible la predicción de rasgos, ¿cómo esto se puede convertir en algo útil para la selección? Esto debido a que un fenotipo per se no puede usarse directamente para seleccionar animales. Por lo tanto, además de poder predecir fenotipos a partir de ómicas, también se necesita de una teoría para utilizar las ómicas en la mejora genética.
+Si bien, a partir de estos nuevos enfoques es posible la predicción de rasgos, ¿cómo esto se puede convertir en algo útil para la selección? Esto debido a que un fenotipo per se no puede usarse directamente para seleccionar animales. Por lo tanto, además de poder predecir fenotipos a partir de ómicas, también se necesita de una teoría para utilizar las ómicas en la mejora genética.<!-- Además de ayudar a nuestra comprensión, una teoría, aunque no sea perfecta, prepara el escenario para planes a priori para usar ómicas en esquemas de selección a partir de unos pocos parámetros básicos.-->
+
+</b></p>
 
 ---
 
