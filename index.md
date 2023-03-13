@@ -46,12 +46,16 @@ Varios niveles del conocimiento han sido asociados con tecnologías ómicas emer
 <br>
 <br>
 
-Un problema fundamental en una biología basada en ómica es la dificultad en extraer conocimientos de conjuntos de datos grandes y complejos. Esta tarea se puede obordar a través de algoritmos de machine (deep) learning, muchos de los cuales pueden ser adaptados a configuraciones especifícas y tipo ómicos.
+Un problema fundamental en una biología basada en ómicas es la dificultad en extraer conocimientos de conjuntos de datos grandes y complejos. Esta tarea se puede obordar a través de algoritmos de machine (deep) learning, muchos de los cuales pueden ser adaptados a configuraciones especifícas y tipos ómicos.
 
 <br>
 <br>
 
-Un solo tipo de datos suele ofrecer una visión parcial de la complejidad biologica y puede limitar nuestra compresión de la misma, mientras que los <u>metodos de integración de datos</u> pueden facilitar el análisis combinado de múltiples conjuntos de datos ómicos (que puede ser heterogéneo), y así representar más de cerca las relaciones genotipo-fenotipo.
+Un solo tipo de datos suele ofrecer una visión parcial de la complejidad biologica y puede limitar nuestra compresión de la misma, mientras que los <u>metodos de integración de datos</u> pueden facilitar el análisis combinado de múltiples conjuntos de datos ómicos (que pueden ser heterogéneos), y así representar más de cerca las relaciones genotipo-fenotipo.
+
+Los métodos metadimensionales son los enfoques de integración de datos a gran escala ma éxitosos. Estos son:
+
+1. <u>Integración basada en concatenación</u>.
 
 </b></p>
 
