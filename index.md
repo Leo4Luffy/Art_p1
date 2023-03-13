@@ -53,11 +53,25 @@ Un problema fundamental en una biología basada en ómicas es la dificultad en e
 
 Un solo tipo de datos suele ofrecer una visión parcial de la complejidad biológica y puede limitar nuestra compresión de la misma, mientras que los <u>métodos de integración de datos</u> pueden facilitar el análisis combinado de múltiples conjuntos de datos ómicos (que pueden ser heterogéneos), y así representar más de cerca las relaciones genotipo-fenotipo.
 
+<br>
+<br>
+
 Los métodos metadimensionales son los enfoques de integración de datos a gran escala más exitosos. Estos son:
 
 <br>
+<br>
 
 1. <u>Integración basada en concatenación</u>. Varios tipos de datos se fusionan mediante la concatenación de matrices de datos. Luego, un algoritmo de aprendizaje puede aplicarse a esta matriz combinada. Este enfoque tiene como ventaja que facilita que a cualquier matriz combinada se le pueda aplicar métodos estadísticos con relativa facilidad. No obstante, combinar múltiples matrices puede ser desafiante debido a las diferencias de escala (que puede solucionarse a partir de la normalización) o el sesgo y la varianza inherente de cada tipo de dato (que aún con normalización puede afectar el análisis) (Figura <a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig1_Art6.png">aquí</a>).
+
+<br>
+<br>
+
+2. <u>Integración basada en transformación</u>. Cada conjunto de datos se convierte a una forma intermedia. Luego la integración de los datos se realiza al nivel de los datos transformados, lo que da como resultado un gráfico integrador o matriz kernel, que puede usarse en la fase de aprendizaje. Este enfoque tiene la ventaja de preservar las propiedades originales de los datos y la capacidad de combinar prácticamente cualquier estructura de datos aplicando las transformaciones apropiadas. Su principal desventaja es la dificultad de detectar interacciones entre diferentes fuentes, la perdida de correlaciones ómicas cruzadas, y todo ello resulta en una difícil interpretación (Figura <a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig2_Art6.png">aquí</a>).
+
+<br>
+<br>
+
+3. <u>Integración basada en modelos</u>. Genera modelos de machine learning de cada conjunto de datos y, posteriormente, los combina para producir un modelo final basado en datos. Este enfoque puede tener una flexibilidad mayor comparado con la integración basada en transformación, sin embargo, al igual que esta última, puede pasar por alto la interacción entre diferentes tipos de datos, además de que es sensible a sobre ajustes, por lo que se recomienda su uso cuando los conjuntos de datos son extremadamente hereogéneos (Figura <a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig3_Art6.png">aquí</a>).
 
 </b></p>
 
