@@ -128,11 +128,21 @@ Hoy en día existe una plétora de nuevas mediciones, parte de ellas cercanas a 
 
 Si bien, a partir de estos nuevos enfoques es posible la predicción de rasgos, ¿cómo esto se puede convertir en algo útil para la selección? Esto debido a que un fenotipo per se no puede usarse directamente para seleccionar animales. Por lo tanto, además de poder predecir fenotipos a partir de ómicas, también se necesita de una teoría para utilizar las ómicas en la mejora genética.<!-- Además de ayudar a nuestra comprensión, una teoría, aunque no sea perfecta, prepara el escenario para planes a priori para usar ómicas en esquemas de selección a partir de unos pocos parámetros básicos.-->
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
-
-</script>
+<html>
+  <head>
+    <title>WebEQ Test</title>
+  </head>
+  <body>
+    <applet codebase="classes"
+       code="geom.webeq.app.mdraw"
+       width=500 height=100>
+      <param name=size value=36>
+      <param name=color value="#ffffff">
+      <param name=eq
+         value="y=\sqrt{x}+\root{3}{2+\mu}">
+    </applet>
+  </body>
+</html>
 
 </b></p>
 
