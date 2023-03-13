@@ -128,7 +128,9 @@ Hoy en día existe una plétora de nuevas mediciones, parte de ellas cercanas a 
 
 Si bien, a partir de estos nuevos enfoques es posible la predicción de rasgos, ¿cómo esto se puede convertir en algo útil para la selección? Esto debido a que un fenotipo per se no puede usarse directamente para seleccionar animales. Por lo tanto, además de poder predecir fenotipos a partir de ómicas, también se necesita de una teoría para utilizar las ómicas en la mejora genética.<!-- Además de ayudar a nuestra comprensión, una teoría, aunque no sea perfecta, prepara el escenario para planes a priori para usar ómicas en esquemas de selección a partir de unos pocos parámetros básicos.-->
 
-$$ \text{Reward}(x) = \frac{1}{(1 + \exp(-x*A+B))} \cdot C $$
+```math
+y_{i} =
+```
 
 </b></p>
 
