@@ -41,7 +41,7 @@ La generación y el intercambio de conjuntos de datos multi-ómicos será fundam
 
 <p style="background-color: white; border: 1px solid yellow; color: black; border-radius: 15px 15px 15px 15px; font-size: 12px; padding: 20px; margin: 5px;" align="justify"><b>
 
-Varios niveles del conocimiento han sido asociados con tecnologías ómicas emergentes. En años recientes, los más extendidos incluyen secuencias de ADN (<u>genómica</u>), secuencias de ARN (<u>transcriptómica</u>), metilación del ADN y modificaciones de histonas (<u>epigenómica</u>) y espectrometría de masas de proteínas o metabolitos (<u>proteómica</u> y <u>metabolómica</u>). Los datos ómicos brindan acceso diecto y conveniente a la variabilidad genética y actividad celular.
+Varios niveles del conocimiento han sido asociados con tecnologías ómicas emergentes. En años recientes, los más extendidos incluyen secuencias de ADN (<u>genómica</u>), secuencias de ARN (<u>transcriptómica</u>), metilación del ADN y modificaciones de histonas (<u>epigenómica</u>) y espectrometría de masas de proteínas o metabolitos (<u>proteómica</u> y <u>metabolómica</u>). Los datos ómicos brindan acceso directo y conveniente a la variabilidad genética y actividad celular.
 
 <br>
 <br>
@@ -74,6 +74,12 @@ Los métodos metadimensionales son los enfoques de integración de datos a gran 
 3. <u>Integración basada en modelos</u>. Genera modelos de machine learning de cada conjunto de datos y, posteriormente, los combina para producir un modelo final basado en datos. Este enfoque puede tener una flexibilidad mayor comparado con la integración basada en transformación, sin embargo, al igual que esta última, puede pasar por alto la interacción entre diferentes tipos de datos, además de que es sensible a sobre ajustes, por lo que se recomienda su uso cuando los conjuntos de datos son extremadamente hereogéneos (Figura <a href="https://leo4luffy.github.io/Art_p1/Articulos/Imagen/Fig3_Art6.png">aquí</a>).
 
 </b></p>
+
+---
+
+### :scroll: <a href="https://leo4luffy.github.io/Art_p1/Articulos/7.pdf">Rise of Deep Learning for Genomic, Proteomic, and Metabolomic Data Integration in Precision Medicine</a>
+
+
 
 ---
 
