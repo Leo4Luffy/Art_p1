@@ -128,6 +128,9 @@ Hoy en día existe una plétora de nuevas mediciones, parte de ellas cercanas a 
 
 Si bien, a partir de estos nuevos enfoques es posible la predicción de rasgos, ¿cómo esto se puede convertir en algo útil para la selección? Esto debido a que un fenotipo por si solo no puede usarse directamente para seleccionar animales. Por lo tanto, además de poder predecir fenotipos a partir de ómicas, también se necesita de una teoría para utilizar las ómicas en la mejora genética.<!-- Además de ayudar a nuestra comprensión, una teoría, aunque no sea perfecta, prepara el escenario para planes a priori para usar ómicas en esquemas de selección a partir de unos pocos parámetros básicos.-->
 
+<br>
+<br>
+
 Sabiendo que un rasgo se descompone clasicamente como:
 
 $$
@@ -141,6 +144,21 @@ y_{i} = m_{i} \alpha + e_{i},
 $$
 
 donde $m_{i}$ contiene las medidas ómicas para el individuo $i$ y $\alpha$ contiene sus efectos. Aquí, $e_{i}$ sería la parte no explicada por las ómicas.
+
+<br>
+<br>
+
+Como no se pueden medir todas las medidas ómicas relevantes (por ejemplo, algunas pueden ocurrir durante el desarrollo del embrión), se postula un modelo en el que la parte no explicada por las ómicas tiene algún determinismo genético no mediado por las ómicas, $a_{r}$ (donde $r$ indica residual), lo que lleva a:
+
+$$
+y_{i} = a_{r(i)} + m_{i} \alpha + e_{i}.
+$$
+
+De lo anterior, se define un valor ómico como $u_{m(i)} = m_{i} \alpha$ (que no es un valor genético). Como las ómicas no se transmiten a la descendencia, se necesita descomponer en parte genética y en parte ambiental (o residual):
+
+$$
+m_{i,j} = g_{i,j} + e_{i,j}.
+$$
 
 </b></p>
 
