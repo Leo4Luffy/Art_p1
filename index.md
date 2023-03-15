@@ -160,6 +160,12 @@ $$
 m_{i,j} = g_{i,j} + e_{i,j}.
 $$
 
+La contribución del valor genético ($g_{i,j}$) de las ómicas $j$ al fenotipo es $g_{i,j} \alpha _{j}$, mientras que la contribución del residuo ($e_{i,j}$) de las ómicas $j$ al fenotipo es $e_{i,j} \alpha _{j}$. Por lo tanto, se puede definir un valor genético “mediado por ómicas”, $a_{m(i)}$ , como una suma sobre ómicas de $g_{ij} \alpha _{j}$:
+
+$$
+a_{m(i)} = \sum g_{i,j} \alpha _{j} = g_{i} \alpha,
+$$
+
 </b></p>
 
 ---
