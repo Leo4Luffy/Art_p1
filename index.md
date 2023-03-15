@@ -160,10 +160,21 @@ $$
 m_{i,j} = g_{i,j} + e_{i,j}.
 $$
 
-La contribución del valor genético ($g_{i,j}$) de las ómicas $j$ al fenotipo es $g_{i,j} \alpha _{j}$, mientras que la contribución del residuo ($e_{i,j}$) de las ómicas $j$ al fenotipo es $e_{i,j} \alpha _{j}$. Por lo tanto, se puede definir un valor genético “mediado por ómicas”, $a_{m(i)}$ , como una suma sobre ómicas de $g_{ij} \alpha _{j}$:
+La contribución del valor genético ($g_{i,j}$) de las ómicas $j$ al fenotipo es $g_{i,j} \alpha _{j}$, mientras que la contribución del residuo ($e_{i,j}$) de las ómicas $j$ al fenotipo es $e_{i,j} \alpha _{j}$. Por lo tanto, se puede definir un valor genético mediado por ómicas, $a_{m(i)}$ , como una suma sobre ómicas de $g_{ij} \alpha _{j}$:
 
 $$
 a_{m(i)} = \sum g_{i,j} \alpha _{j} = g_{i} \alpha,
+$$
+
+que es la parte genética de $u_{m(i)}$.
+
+<br>
+<br>
+
+Entonces, para cada inviduo existe un único valor mediado por ómicas ($u_{m(i)}$) y un valor génetico residual ($a_{r(i)}$) que explica la variación genética de la parte del fenotipo no mediada por ómicas. El mismo individuo $i$ tiene, para cada ómica ($m_{i,j}$) un valor genético ($g_{i,j}$). La suma de los valores genéticos para las ómicas ($g_{i}$) por sus efectos ($\alpha$) da el valor genético mediado por ómicas ($a_{m(i)}$). El valor genético general es por lo tanto:
+
+$$
+a_{i} = a_{r(i)} + a_{m(i)}.
 $$
 
 </b></p>
