@@ -134,16 +134,16 @@ Si bien, a partir de estos nuevos enfoques es posible la predicción de rasgos, 
 Sabiendo que un rasgo se descompone clasicamente como:
 
 $$
-y_{i} = a_{i} + e_{i},
+y_{i} = a_{i} + e_{i}*,
 $$
 
-donde $a_{i}$ es el valor genético y $e_{i}$ es la parte no explicada por la genética (o residuo). En este sentido, si se conocieran las ómicas ($m$) que definen el resultado de un rasgo ($y$), un modelo básico para el individuo $i$ sería:
+donde $a_{i}$ es el valor genético y $e_{i}*$ es la parte no explicada por la genética (o residuo). En este sentido, si se conocieran las ómicas ($m$) que definen el resultado de un rasgo ($y$), un modelo básico para el individuo $i$ sería:
 
 $$
-y_{i} = m_{i} \alpha + e_{i},
+y_{i} = m_{i} \alpha + \epsilon _{i},
 $$
 
-donde $m_{i}$ contiene las medidas ómicas para el individuo $i$ y $\alpha$ contiene sus efectos. Aquí, $e_{i}$ sería la parte no explicada por las ómicas.
+donde $m_{i}$ contiene las medidas ómicas para el individuo $i$ y $\alpha$ contiene sus efectos. Aquí, $\epsilon _{i}$ sería la parte no explicada por las ómicas.
 
 <br>
 <br>
@@ -151,7 +151,7 @@ donde $m_{i}$ contiene las medidas ómicas para el individuo $i$ y $\alpha$ cont
 Como no se pueden medir todas las medidas ómicas relevantes (por ejemplo, algunas pueden ocurrir durante el desarrollo del embrión), se postula un modelo en el que la parte no explicada por las ómicas tiene algún determinismo genético no mediado por las ómicas, $a_{r}$ (donde $r$ indica residual), lo que lleva a:
 
 $$
-y_{i} = a_{r(i)} + m_{i} \alpha + e_{i}.
+y_{i} = a_{r(i)} + m_{i} \alpha + \epsilon _{i}.
 $$
 
 De lo anterior, se define un valor ómico como $u_{m(i)} = m_{i} \alpha$ (que no es un valor genético). Como las ómicas no se transmiten a la descendencia, se necesita descomponer en parte genética y en parte ambiental (o residual):
@@ -175,6 +175,12 @@ Entonces, para cada inviduo existe un único valor mediado por ómicas ($u_{m(i)
 
 $$
 a_{i} = a_{r(i)} + a_{m(i)}.
+$$
+
+Finalmente, el residuo total después de descontar el valor genético es $e_{i}* = \epsilon + e_{i} \alpha$, tal que:
+
+$$
+y_{i} = a_{r(i)} + a_{m(i)} + e_{i}*.
 $$
 
 </b></p>
