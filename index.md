@@ -131,7 +131,7 @@ Si bien, a partir de estos nuevos enfoques es posible la predicción de rasgos, 
 <br>
 <br>
 
-Sabiendo que un rasgo se descompone clasicamente como:
+Sabiendo que un rasgo se descompone clásicamente como:
 
 $$
 y_{i} = a_{i} + e_{i}*,
